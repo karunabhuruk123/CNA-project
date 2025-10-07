@@ -1,0 +1,58 @@
+Status: 200
+Headers: {
+  'content-length': '15751',
+  'content-type': 'application/json; charset=utf-8',
+  date: 'Fri, 03 Oct 2025 11:23:20 GMT',
+  etag: 'W/"3d87-8OQuVAW4vLo9vri/wCNApAvw6tI"',
+  nel: '{"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}',
+  'report-to': '{"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=JB1H0p94BR8DLdj11vANYKctzRmgBXAC46eCCDQ9XKA%3D\\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\\u0026ts=1759490600"}],"max_age":3600}',
+  'reporting-endpoints': 'heroku-nel="https://nel.heroku.com/reports?s=JB1H0p94BR8DLdj11vANYKctzRmgBXAC46eCCDQ9XKA%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1759490600"',
+  server: 'Heroku',
+  via: '1.1 heroku-router',
+  'x-powered-by': 'Express'
+}
+Body: [
+  { bookingid: 862 },  { bookingid: 309 },  { bookingid: 339 },
+  { bookingid: 772 },  { bookingid: 556 },  { bookingid: 95 },
+  { bookingid: 1089 }, { bookingid: 241 },  { bookingid: 836 },
+  { bookingid: 789 },  { bookingid: 507 },  { bookingid: 1168 },
+  { bookingid: 634 },  { bookingid: 528 },  { bookingid: 931 },
+  { bookingid: 655 },  { bookingid: 342 },  { bookingid: 402 },
+  { bookingid: 516 },  { bookingid: 326 },  { bookingid: 111 },
+  { bookingid: 835 },  { bookingid: 798 },  { bookingid: 1210 },
+  { bookingid: 832 },  { bookingid: 1009 }, { bookingid: 238 },
+  { bookingid: 408 },  { bookingid: 589 },  { bookingid: 124 },
+  { bookingid: 912 },  { bookingid: 274 },  { bookingid: 8 },
+  { bookingid: 566 },  { bookingid: 46 },   { bookingid: 16 },
+  { bookingid: 56 },   { bookingid: 208 },  { bookingid: 1055 },
+  { bookingid: 267 },  { bookingid: 1143 }, { bookingid: 694 },
+  { bookingid: 385 },  { bookingid: 187 },  { bookingid: 225 },
+  { bookingid: 701 },  { bookingid: 811 },  { bookingid: 226 },
+  { bookingid: 1206 }, { bookingid: 883 },  { bookingid: 394 },
+  { bookingid: 262 },  { bookingid: 1199 }, { bookingid: 466 },
+  { bookingid: 246 },  { bookingid: 1187 }, { bookingid: 155 },
+  { bookingid: 164 },  { bookingid: 123 },  { bookingid: 591 },
+  { bookingid: 904 },  { bookingid: 800 },  { bookingid: 987 },
+  { bookingid: 1129 }, { bookingid: 981 },  { bookingid: 63 },
+  { bookingid: 256 },  { bookingid: 863 },  { bookingid: 117 },
+  { bookingid: 118 },  { bookingid: 203 },  { bookingid: 251 },
+  { bookingid: 1054 }, { bookingid: 410 },  { bookingid: 1133 },
+  { bookingid: 328 },  { bookingid: 463 },  { bookingid: 332 },
+  { bookingid: 265 },  { bookingid: 1103 }, { bookingid: 897 },
+  { bookingid: 1074 }, { bookingid: 684 },  { bookingid: 1016 },
+  { bookingid: 587 },  { bookingid: 1180 }, { bookingid: 1003 },
+  { bookingid: 1051 }, { bookingid: 698 },  { bookingid: 285 },
+  { bookingid: 1126 }, { bookingid: 31 },   { bookingid: 306 },
+  { bookingid: 1108 }, { bookingid: 639 },  { bookingid: 13 },
+  { bookingid: 55 },   { bookingid: 979 },  { bookingid: 753 },
+  { bookingid: 506 },
+  ... 771 more items
+]
+Details for booking ID 862: {
+  firstname: 'James',
+  lastname: 'Brown',
+  totalprice: 111,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'Lunch'
+}

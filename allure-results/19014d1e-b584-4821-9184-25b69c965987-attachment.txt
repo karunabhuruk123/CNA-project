@@ -1,0 +1,22 @@
+Status: 200
+Headers: {
+  date: 'Fri, 03 Oct 2025 07:52:26 GMT',
+  expires: '-1',
+  'cache-control': 'private, max-age=0',
+  'content-type': 'text/html; charset=UTF-8',
+  'strict-transport-security': 'max-age=31536000',
+  'content-security-policy-report-only': "object-src 'none';base-uri 'self';script-src 'nonce-AmmGZOqzpZjuheOqhCIMMw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp",
+  'cross-origin-opener-policy': 'same-origin-allow-popups; report-to="gws"',
+  'report-to': '{"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}',
+  'accept-ch': 'Sec-CH-Prefers-Color-Scheme, Downlink, RTT, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version, Sec-CH-UA-Arch, Sec-CH-UA-Model, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64',
+  'permissions-policy': 'unload=()',
+  p3p: 'CP="This is not a P3P policy! See g.co/p3phelp for more info."',
+  'content-encoding': 'br',
+  server: 'gws',
+  'x-xss-protection': '0',
+  'x-frame-options': 'SAMEORIGIN',
+  'transfer-encoding': 'chunked',
+  'set-cookie': 'AEC=AaJma5uzAR2KqHdJOMkRd17rVxp_nwFgQ3hunqmnbMRRm8ylo91VQDvSLQ; expires=Wed, 01-Apr-2026 07:52:27 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax\n' +
+    'NID=525=NhLWAHVJt-_aQiXmz4OZiibOQNGkDnxydzf0qr_vaifOddISVmBKCMIRvfWLy66JOZT7FqpYP-5vzFvaOINwbvfszVWLkQD_kZgGm6oygBv0Sr9db18sC4EiVbC-mcpQCDIuvGbSX4gzOkQy3HqDU8U-dyDwGdsV-f00PIzQLk1t5Gv8-9xtq7nZwXmNPqQitQaFwq5sg6A4DnLCLCM; expires=Sat, 04-Apr-2026 07:52:26 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none',
+  'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'
+}

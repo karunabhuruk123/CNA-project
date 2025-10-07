@@ -1,0 +1,58 @@
+Status: 200
+Headers: {
+  'content-length': '38341',
+  'content-type': 'application/json; charset=utf-8',
+  date: 'Fri, 03 Oct 2025 11:16:42 GMT',
+  etag: 'W/"95c5-g66xykBgv3QcumX5JF6dTHpM8gk"',
+  nel: '{"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}',
+  'report-to': '{"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=e7GLQa4B5KhM6%2Bg0VeoGrKtOYYTVJ1ytai1hdkowW3Y%3D\\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\\u0026ts=1759490202"}],"max_age":3600}',
+  'reporting-endpoints': 'heroku-nel="https://nel.heroku.com/reports?s=e7GLQa4B5KhM6%2Bg0VeoGrKtOYYTVJ1ytai1hdkowW3Y%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1759490202"',
+  server: 'Heroku',
+  via: '1.1 heroku-router',
+  'x-powered-by': 'Express'
+}
+Body: [
+  { bookingid: 22 },   { bookingid: 642 },  { bookingid: 1176 },
+  { bookingid: 1831 }, { bookingid: 2788 }, { bookingid: 2614 },
+  { bookingid: 271 },  { bookingid: 1855 }, { bookingid: 977 },
+  { bookingid: 179 },  { bookingid: 670 },  { bookingid: 252 },
+  { bookingid: 2985 }, { bookingid: 1009 }, { bookingid: 675 },
+  { bookingid: 735 },  { bookingid: 1572 }, { bookingid: 1614 },
+  { bookingid: 2619 }, { bookingid: 254 },  { bookingid: 2525 },
+  { bookingid: 2169 }, { bookingid: 1885 }, { bookingid: 1925 },
+  { bookingid: 550 },  { bookingid: 2347 }, { bookingid: 875 },
+  { bookingid: 2147 }, { bookingid: 1769 }, { bookingid: 1995 },
+  { bookingid: 557 },  { bookingid: 2781 }, { bookingid: 691 },
+  { bookingid: 1928 }, { bookingid: 2274 }, { bookingid: 2609 },
+  { bookingid: 25 },   { bookingid: 124 },  { bookingid: 702 },
+  { bookingid: 2779 }, { bookingid: 1786 }, { bookingid: 2600 },
+  { bookingid: 2789 }, { bookingid: 683 },  { bookingid: 67 },
+  { bookingid: 2348 }, { bookingid: 2472 }, { bookingid: 2785 },
+  { bookingid: 2058 }, { bookingid: 334 },  { bookingid: 488 },
+  { bookingid: 340 },  { bookingid: 3014 }, { bookingid: 1025 },
+  { bookingid: 1726 }, { bookingid: 2071 }, { bookingid: 34 },
+  { bookingid: 2618 }, { bookingid: 286 },  { bookingid: 2673 },
+  { bookingid: 1119 }, { bookingid: 1045 }, { bookingid: 2833 },
+  { bookingid: 32 },   { bookingid: 1592 }, { bookingid: 2220 },
+  { bookingid: 1226 }, { bookingid: 90 },   { bookingid: 2979 },
+  { bookingid: 328 },  { bookingid: 1694 }, { bookingid: 2690 },
+  { bookingid: 817 },  { bookingid: 1761 }, { bookingid: 575 },
+  { bookingid: 841 },  { bookingid: 1715 }, { bookingid: 357 },
+  { bookingid: 1300 }, { bookingid: 613 },  { bookingid: 2083 },
+  { bookingid: 110 },  { bookingid: 2809 }, { bookingid: 47 },
+  { bookingid: 2508 }, { bookingid: 2732 }, { bookingid: 1170 },
+  { bookingid: 3039 }, { bookingid: 524 },  { bookingid: 676 },
+  { bookingid: 31 },   { bookingid: 2400 }, { bookingid: 2761 },
+  { bookingid: 1096 }, { bookingid: 692 },  { bookingid: 2393 },
+  { bookingid: 1326 }, { bookingid: 2126 }, { bookingid: 1711 },
+  { bookingid: 2120 },
+  ... 1959 more items
+]
+Details for booking ID 22: {
+  firstname: 'Jane',
+  lastname: 'Doe',
+  totalprice: 111,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'Extra pillows please'
+}
